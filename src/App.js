@@ -7,7 +7,7 @@ import Singlerooms from './pages/singleRoom';
 import Error from './pages/error';
 import Navbar from './components/navbar';
 
-import {Route, Switch, Router} from 'react-router-dom';
+import {Route, Switch,} from 'react-router-dom';
 
 function App() {
   return (
